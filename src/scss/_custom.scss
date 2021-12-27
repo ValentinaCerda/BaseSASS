@@ -1,3 +1,11 @@
+//Reescribir Bootstrap
+$rojo: #ee9383;
+$azul: #97ace7;
+
+//Asignar a la paleta de colores de bootstrap
+$danger: $rojo;
+$primary: $azul;
+
 @import '../../node_modules/bootstrap/scss/bootstrap.scss'; 
 //ruta para importar bootstrap
 //poner en terminal "npm run start" para apicar cambios
